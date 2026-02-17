@@ -4,7 +4,7 @@ setup(
     name='my_planner',
     version='0.1.0',
     packages=find_packages("."),
-    scripts=["planer_pkg/main.py"],  # Расположение главного исполняемого файла.
+    scripts=["bin/my_planner"],  # Расположение главного исполняемого файла.
     url='https://github.com/Marat-Sirazetdinov/my_planner',  # Адрес репозитория с вашей курсовой работой.
     license='Apache-2.0',
     author='Сиразетдинов Марат Рустамович',
